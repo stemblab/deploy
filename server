@@ -1,0 +1,75 @@
+[beyond-nyquist]
+checkout = git clone 'git@github.com:stemblab/beyond-nyquist' 'beyond-nyquist'
+
+[block-diagrams]
+checkout = git clone 'git@github.com:stemblab/block-diagrams' 'block-diagrams'
+
+[complex-pseudoinverse]
+checkout = git clone 'git@github.com:stemblab/complex-pseudoinverse' 'complex-pseudoinverse'
+
+[complex-svd]
+checkout = git clone 'git@github.com:stemblab/complex-svd' 'complex-svd'
+
+[complex-vis]
+checkout = git clone 'git@github.com:stemblab/complex-vis' 'complex-vis'
+
+[cs-intro]
+checkout = git clone 'git@github.com:stemblab/cs-intro' 'cs-intro'
+
+[cs-primer]
+checkout = git clone 'git@github.com:stemblab/cs-primer' 'cs-primer'
+
+[fermi-pasta-ulam]
+checkout = git clone 'git@github.com:stemblab/fermi-pasta-ulam' 'fermi-pasta-ulam'
+
+[gifs]
+checkout = git clone 'git@github.com:stemblab/gifs' 'gifs'
+
+[gray-scott]
+checkout = git clone 'git@github.com:stemblab/gray-scott' 'gray-scott'
+
+[intuitive-cs]
+checkout = git clone 'git@github.com:stemblab/intuitive-cs' 'intuitive-cs'
+
+[irls]
+checkout = git clone 'git@github.com:stemblab/irls' 'irls'
+
+[julian-day]
+checkout = git clone 'git@github.com:stemblab/julian-day' 'julian-day'
+
+[l1-magic-ports]
+checkout = git clone 'git@github.com:stemblab/l1-magic-ports' 'l1-magic-ports'
+
+[mass-spring-vis]
+checkout = git clone 'git@github.com:stemblab/mass-spring-vis' 'mass-spring-vis'
+
+[mathgifs-logo]
+checkout = git clone 'git@github.com:stemblab/mathgifs-logo' 'mathgifs-logo'
+
+[mathjax-diagram]
+checkout = git clone 'git@github.com:stemblab/mathjax-diagram' 'mathjax-diagram'
+
+[matrix-spark]
+checkout = git clone 'git@github.com:stemblab/matrix-spark' 'matrix-spark'
+
+[medieval-trig]
+checkout = git clone 'git@github.com:stemblab/medieval-trig' 'medieval-trig'
+
+[metronome]
+checkout = git clone 'git@github.com:stemblab/metronome' 'metronome'
+
+[mutual-coherence]
+checkout = git clone 'git@github.com:stemblab/mutual-coherence' 'mutual-coherence'
+
+[reg-demo]
+checkout = git clone 'git@github.com:stemblab/reg-demo' 'reg-demo'
+
+[soliton-startrek]
+checkout = git clone 'git@github.com:stemblab/soliton-startrek' 'soliton-startrek'
+
+[vanderpol-portrait]
+checkout = git clone 'git@github.com:stemblab/vanderpol-portrait' 'vanderpol-portrait'
+
+[weierstrass]
+checkout = git clone 'git@github.com:stemblab/weierstrass' 'weierstrass'
+
