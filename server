@@ -1,3 +1,6 @@
+[stemblab.github.io]
+checkout = git clone 'git@github.com:stemblab/stemblab.github.io' 'stemblab.github.io'
+
 [beyond-nyquist]
 checkout = git clone 'git@github.com:stemblab/beyond-nyquist' 'beyond-nyquist'
 
