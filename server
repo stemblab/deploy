@@ -67,6 +67,9 @@ checkout = git clone 'git@github.com:stemblab/mutual-coherence' 'mutual-coherenc
 [reg-demo]
 checkout = git clone 'git@github.com:stemblab/reg-demo' 'reg-demo'
 
+[rgb-calc]
+checkout = git clone 'git@github.com:stemblab/rgb-calc' 'rgb-calc'
+
 [soliton-startrek]
 checkout = git clone 'git@github.com:stemblab/soliton-startrek' 'soliton-startrek'
 
