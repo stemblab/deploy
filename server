@@ -34,6 +34,18 @@ checkout = git clone 'git@github.com:stemblab/gray-scott' 'gray-scott'
 [gui]
 checkout = git clone 'git@github.com:stemblab/gui' 'gui'
 
+[gui-plot]
+checkout = git clone 'git@github.com:stemblab/gui-plot' 'gui-plot'
+
+[gui-slider]
+checkout = git clone 'git@github.com:stemblab/gui-slider' 'gui-slider'
+
+[gui-table]
+checkout = git clone 'git@github.com:stemblab/gui-table' 'gui-table'
+
+[intuitive-cs]
+checkout = git clone 'git@github.com:stemblab/intuitive-cs' 'intuitive-cs'
+
 [intuitive-cs]
 checkout = git clone 'git@github.com:stemblab/intuitive-cs' 'intuitive-cs'
 
