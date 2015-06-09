@@ -31,6 +31,9 @@ checkout = git clone 'git@github.com:stemblab/gifs' 'gifs'
 [gray-scott]
 checkout = git clone 'git@github.com:stemblab/gray-scott' 'gray-scott'
 
+[gui]
+checkout = git clone 'git@github.com:stemblab/gui' 'gui'
+
 [intuitive-cs]
 checkout = git clone 'git@github.com:stemblab/intuitive-cs' 'intuitive-cs'
 
